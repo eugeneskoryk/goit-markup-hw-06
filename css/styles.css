@@ -91,20 +91,19 @@ body {
 
 .burger-btn {
   position: absolute;
-  width: 24px;
-  height: 24px;
   top: 16px;
   right: 16px;
   display: flex;
   justify-content: center;
   align-items: center;
-  border: transparent;
+  border: none;
   background-color: transparent;
 
 }
 
 .burger-btn-icon {
   fill: 2f2f37;
+  display: block;
 }
 
 .mobile-menu {
